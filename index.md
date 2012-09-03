@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to visual2me's blog
+title: Homepage
 comments: false
 tagline: welcome
 ---
